@@ -2,8 +2,8 @@ package helper
 
 import (
 	"fmt"
-	"github.com/FadhlanHawali/Digitalent-Kominfo_Pendalaman-Rest-API/auth/constant"
-	"github.com/FadhlanHawali/Digitalent-Kominfo_Pendalaman-Rest-API/auth/database"
+	"microservice-dts/auth/constant"
+	"microservice-dts/auth/database"
 	"github.com/dgrijalva/jwt-go"
 	"github.com/pkg/errors"
 	"log"

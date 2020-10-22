@@ -1,4 +1,4 @@
-module github.com/FadhlanHawali/Digitalent-Kominfo_Pendalaman-Rest-API
+module microservice-dts
 
 go 1.15
 

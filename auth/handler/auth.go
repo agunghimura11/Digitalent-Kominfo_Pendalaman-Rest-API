@@ -2,9 +2,9 @@ package handler
 
 import (
 	"encoding/json"
-	"github.com/FadhlanHawali/Digitalent-Kominfo_Pendalaman-Rest-API/auth/database"
-	"github.com/FadhlanHawali/Digitalent-Kominfo_Pendalaman-Rest-API/auth/helper"
-	"github.com/FadhlanHawali/Digitalent-Kominfo_Pendalaman-Rest-API/utils"
+	"microservice-dts/auth/database"
+	"microservice-dts/auth/helper"
+	"microservice-dts/utils"
 	"gorm.io/gorm"
 	"io/ioutil"
 	"log"

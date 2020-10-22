@@ -2,9 +2,9 @@ package main
 
 import (
 	"fmt"
-	"github.com/FadhlanHawali/Digitalent-Kominfo_Pendalaman-Rest-API/auth/config"
-	"github.com/FadhlanHawali/Digitalent-Kominfo_Pendalaman-Rest-API/auth/database"
-	"github.com/FadhlanHawali/Digitalent-Kominfo_Pendalaman-Rest-API/auth/handler"
+	"microservice-dts/auth/config"
+	"microservice-dts/auth/database"
+	"microservice-dts/auth/handler"
 	"github.com/gorilla/mux"
 	"github.com/spf13/viper"
 	"gorm.io/driver/mysql"
